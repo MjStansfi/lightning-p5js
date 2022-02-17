@@ -1,2 +1,5 @@
-# lightning-p5js
+# Lightning p5js
 Randomly generated lighting strike through recursion.  Layered on top of a starry night with an ominous mountain.
+
+
+![](lightning.gif)
